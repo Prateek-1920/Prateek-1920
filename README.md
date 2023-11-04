@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prateek Manoj Mhatre</h1>
 <h3 align="center">A second year Computer Science student</h3>
 
+<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-1920&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-1920" /> </p>
 
 - 🔭 I’m currently working on **automating navigation stack for University Rover Challenge**
