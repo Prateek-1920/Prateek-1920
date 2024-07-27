@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Manoj Mhatre</h1>
-<h3 align="center">A second year Computer Science student</h3>
+<h3 align="center">A third year Computer Science student</h3>
 
 
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
