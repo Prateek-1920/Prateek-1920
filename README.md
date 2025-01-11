@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **automating navigation stack for University Rover Challenge**
 
-- 👯 I’m looking to collaborate on **AI and ML and ROS projects**
+- 👯 I’m looking to collaborate on **AI and ML projects**
 
 - 🤝 I’m looking for help with **Artificial Intelligence and Machine Learning**
 
