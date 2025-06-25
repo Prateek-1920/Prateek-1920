@@ -1,28 +1,109 @@
-<h1 align="center">Hi 👋, I'm Prateek Manoj Mhatre</h1>
-<h3 align="center">A third year Computer Science student</h3>
+<h1 align="center">Hi👋 I am Prateek Mhatre</h1>
 
+###
 
-<img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<p align="left">A Final year Computer Science Engineering undergratuate stuying in MIT Manipal. I am persuing my major specialization in Artificial Intelligence and Machine Learning an minors in Natural Language Processing.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-1920&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-1920" /> </p>
+###
 
-- 🔭 I’m currently working on **automating navigation stack for University Rover Challenge**
+<h2 align="center">About me</h2>
 
-- 👯 I’m looking to collaborate on **AI and ML projects**
+###
 
-- 🤝 I’m looking for help with **Artificial Intelligence and Machine Learning**
+<p align="left">📚 I'm currently learning NLP.<br>🤝 Willing to collaborate on DL and OpenCV projects.<br>🤖 I enjoy working on robots.</p>
 
-- 📫 How to reach me **prateek8080570@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/prateeek_1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prateeek_1920" height="30" width="40" /></a>
-</p>
+<h2 align="center">Tech stack</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek-1920&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="prateek-1920" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-1920&show_icons=true&theme=tokyonight&locale=en" alt="prateek-1920" /></p>
+<br clear="both">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-1920&theme=dark" alt="prateek-1920" /></p>
+<img align="right" height="180" src="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="25" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="25" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="25" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="25" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="25" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="25" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" height="25" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge" height="25" alt="ros logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="25" alt="django logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="25" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" height="25" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="25" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="25" alt="canva logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Reach out to me on</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/prateek-mhatre-54a076235/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/prateeek_1920/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="prateek8080570@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateek-1920&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="101" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek-1920&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=prateek-1920&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateek-1920/prateek-1920/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prateek-1920/prateek-1920/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prateek-1920/prateek-1920/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/prateek-1920/count.svg?"  />
+</div>
+
+###
