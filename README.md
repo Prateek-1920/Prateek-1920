@@ -95,7 +95,9 @@
 </div>
 
 ###
+
 <img src="https://raw.githubusercontent.com/prateek-1920/prateek-1920/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">
