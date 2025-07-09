@@ -94,11 +94,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=prateek-1920&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/prateek-1920/prateek-1920/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/prateek-1920/count.svg?"  />
